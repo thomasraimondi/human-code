@@ -19,18 +19,19 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
 - Prendi la teglia
 - Leggi la ricetta
 - Prendi gli ingredienti
+  Accendi il forno
+- FINCHè la temperatura del forno non raggiunge xx°
+  - aspetto
 - FINCHé NON è piena la teglia, ripetere i passaggi:
-  - 1. Metti strato di pasta sfoglia
-  - 2. Metti il ragù
-  - 3. Metti la besciamella
-- Accendi il forno
-- SE la temperatura del forno raggiunge xx°
-  - inforna la lasagna
-  - Metti il timer
-  - SE il timer è scaduto
-    - Controlla la lasagna
-    - FINCHè NON è ben gratinata la besciamella
-      rimetti timer per 5 minuti
+  - Metti strato di pasta sfoglia
+  - Metti il ragù
+  - Metti la besciamella
+- inforna la lasagna
+- Metti il timer
+- SE il timer è scaduto
+  - Controlla la lasagna
+  - FINCHè NON è ben gratinata la besciamella
+    rimetti timer per 5 minuti
 - Lasciala raffreddare 5 minuti
 - Prendi la forchetta dalla credenza
 - Mangia
